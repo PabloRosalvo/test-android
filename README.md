@@ -1,4 +1,4 @@
-O objetivo desse desafio é construir uma pokédex. O app deve acessar a api POKÉMON TCG e seguir os mockups abaixo:
+O objetivo desse desafio é construir uma pokédex. O app deve acessar a api POKÉMON TCG:
 
 # Pok-clic
 Sobre o desafio     
